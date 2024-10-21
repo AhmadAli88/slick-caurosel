@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.centralize_image{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  
+}
+.slick-arrow.slick-next, .slick-arrow.slick-prev{
+  background-color: lightgreen;
+}
+.slick-arrow.slick-next:hover, .slick-arrow.slick-prev:hover{
+  background-color: greenyellow;
+}
+.variable-image{
+  height: 400px !important;
+  width: 100% !important;
+}
